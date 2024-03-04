@@ -146,3 +146,14 @@ a{
     float: left;
 
 }
+
+.see-more{
+     padding: 2em;
+     padding-left: 60px;
+     margin-right: 1em;
+     color: #317185;
+     font-size: small;
+}
+.extra span{
+    font-size: small;
+}
